@@ -1,2 +1,2 @@
 # 100AlgorithmsChallenge
-**My attempt on the 100AlgorithmsChallenge. Some are sovled by myself, some required instructions.
+<p>My attempt on the 100AlgorithmsChallenge. Some are solved by myself, some required instructions.</p>
